@@ -1,0 +1,14 @@
+.admin_main {
+    background-image: url("/images/Peacocktap.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+.admin_card {   
+    opacity: 0.8; 
+    margin-left: 50px; 
+    margin-right: 50px;
+}
+.admin_text {
+    margin:20px;
+}

@@ -1,0 +1,9 @@
+footer {
+    margin: auto;
+    height: 100px;
+    background-image: url("/images/upholstery.JPG");
+    background-repeat: no-repeat;
+    background-size: cover;
+    position: relative;
+
+}
